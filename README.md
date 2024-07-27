@@ -31,7 +31,7 @@ This repository contains a Python Tkinter application that draws a representatio
 
 You can watch the demonstration video of the Indian flag drawing application by clicking the link below:
 
-[Watch Demo Video](output/video.mp4)
+![Watch Demo Video](output/video.mp4)
 
 
 ## Developer
